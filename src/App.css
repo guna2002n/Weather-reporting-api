@@ -22,7 +22,7 @@ body{
 }
 .textbox{
   width: 70%;
-  border: 3px solid yellow;
+  border: 3px solid rgb(55, 55, 53);
   padding: 4px;
   display: flex;
   align-items: center;
